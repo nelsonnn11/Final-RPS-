@@ -1,0 +1,21 @@
+body {
+  background-color: #90A9B7;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  cursor: pointer;
+  font-size: 2rem;
+  transition: 100ms;
+}
+
+
+.result-score {
+  font-size: 2rem;
+  color: #333;
+}
+
